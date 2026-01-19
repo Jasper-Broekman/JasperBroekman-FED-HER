@@ -162,7 +162,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Ik heb de WCAG checklist ingevuld en daaruit blijkt dat mijn site al beter scoord dan die van porsche. 
+
+  Tijdens het toetsen van mijn site aan de WCAG-checklist heb ik gekeken naar hoe toegankelijk mijn site tot nu toe is. Ik heb de taalinstellingen goed staan en de site is op mobiel goed leesbaar.
+
+  Op het gebied van media scoort de site goed door de pauzeknop voor de video. Hierdoor voldoe ik aan de richtlijn dat gebruikers bewegende beelden moeten kunnen stopzetten. Ook de contrasten zijn overal voldoende en ik heb een tekst-vergroter toegevoegd waarmee de gebruiker zelf de leesbaarheid kan aanpassen. Dit maakt de site een stuk vriendelijker voor mensen met een visuele beperking.
+
+  De belangrijkste verbeterpunten zitten in de keyboard-navigatie; de 'focus' is nu niet goed zichtbaar als je met de Tab-toets door de site gaat. Ook voor screenreaders valt er nog wat te verbeteren door paginatitels unieker te maken en decoratieve afbeeldingen een lege alt-tekst te geven. De basis is dus al prima.
 
 </details>
 
